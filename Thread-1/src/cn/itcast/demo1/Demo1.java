@@ -3,7 +3,7 @@ package cn.itcast.demo1;
 public class Demo1 {
 
 	/*
-	 * 这是主线程,内部可以开启不同的子线程
+	 * 这是主线程,内部可以开启不同的子线程gfdgdgfdgdg
 	 */
 	public static void main(String[] args) {
 		//创建ThreadDemo1线程对象,创建好一个对象,就相当于创建一个线程
